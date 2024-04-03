@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Zker  # 标题
+title: 不忘初心，砥砺前行  # 标题
 subtitle: '一二三言'  # 副标题
 description: '一个暖炉，一杯水，一本书，时光在淅沥的雨声中慢下来。'  # 个性签名
 keywords:
-author: Zker pi  # 作者
+author: 砥砺前行  # 作者
 language: zh-CN  # 语言 en(英语) zh-CN(简体中文)
 timezone: 'Asia/Shanghai'  # 中国的时区
 
