@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'  # 中国的时区
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://zkerpi.fjlcy.com/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,7 +103,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repository: git@github.com:zkerpi/zkerpi.github.io.git
+  repository: git@github.com:ABC1319/zkerpi.git
   branch: main
 
 # 图片懒加载
